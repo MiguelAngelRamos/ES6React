@@ -1,7 +1,7 @@
 // const se utiliza para definir constantes, estas no pueden cambiar su valor, pero hay ciertas
 // excepciones con los objetos y arreglos
 
-const arrayNumero = [10, 20, 30];
+const arrayNumero = [10, 20, 30, 'HolaMundo'];
 arrayNumero.push(40);
 // arrayNumero[0] = 350;
 // console.log(arrayNumero[0]);
